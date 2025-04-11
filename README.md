@@ -25,12 +25,7 @@ pip install llama-index-llms-gemini llama-index-readers-web
 pip install chromadb
 pip install --upgrade pydantic
 ```
-
----
-                # You are here :)
-```
-
----
+               
 
 ## 🛠️ Usage
 
